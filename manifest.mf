@@ -1,0 +1,4 @@
+Name: ugla
+Implementation-Version: 
+Main-Class: ugla.Ugla
+Class-Path: 
